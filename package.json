@@ -1,0 +1,26 @@
+{
+  "name": "fugitconsectetur",
+  "description": "RSK API using Simple JSON RPC, a web3 replacement",
+  "keywords": [
+    "rsk",
+    "ethereum",
+    "voluptate",
+    "occaecati"
+  ],
+  "version": "1.0.0",
+  "author": "MyraWehner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonMurazik/fugitconsectetur.git"
+  },
+  "main": "./lib/rskapi.js",
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "dependencies": {
+    "simplejsonrpc": "0.0.5"
+  },
+  "devDependencies": {
+    "simpleunit": "0.0.7"
+  }
+}
